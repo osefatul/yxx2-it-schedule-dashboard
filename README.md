@@ -2,6 +2,9 @@
 
 We used four reducers with two initial states
 
+### Intro
+I developed this website when I was working with Amazon for IT departement. The purpose of this application is to automate IT schedule for day and night staff without interrupted by human interaction.
+
 ### active: 
 It is an empty array or initial state of a single available member.
 - wed: active/available members only on wednesday, beacuse wednesday is a day of a weeek where a group of members work together.
